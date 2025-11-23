@@ -1,0 +1,10 @@
+{
+  "sellerID": 946842,
+  "name": "Товар второй необходимоcти",
+  "price": 10020,
+  "statistics": {
+    "likes": 23,
+    "viewCount": 58,
+    "contacts": 3
+  }
+}

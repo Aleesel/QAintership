@@ -1,0 +1,8 @@
+{
+  "result":
+  {
+    "message": "ID айтема не UUID: 23321",
+    "messages": {}
+  },
+  "status": "400"
+}

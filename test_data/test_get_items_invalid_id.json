@@ -1,0 +1,8 @@
+{
+  "result":
+  {
+    "message":"ID айтема не UUID: sellerId",
+    "messages":{}
+  },
+  "status":"400"
+}

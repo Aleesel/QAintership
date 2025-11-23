@@ -1,0 +1,30 @@
+30: 2025-11-23 22:40:47,570 test_get_item:
+24: 2025-11-23 22:40:47,609 GET /api/1/item/661597a0-eb5f-4c2e-846b-c18215d5d9af
+30: 2025-11-23 22:40:48,231 test_get_item_not_exist_id:
+24: 2025-11-23 22:40:48,231 GET /api/1/item/661597a0-eb5f-4c2e-846b-c18215d111af
+30: 2025-11-23 22:40:48,350 test_get_item_invalid_id:
+24: 2025-11-23 22:40:48,351 GET /api/1/item/23321
+30: 2025-11-23 22:40:48,473 test_get_items:
+24: 2025-11-23 22:40:48,498 GET /api/1/753162/item
+30: 2025-11-23 22:40:48,814 test_get_items_not_exist_id:
+24: 2025-11-23 22:40:48,814 GET /api/1/946842/item
+30: 2025-11-23 22:40:48,913 test_get_items_invalid_id:
+24: 2025-11-23 22:40:48,914 GET /api/1/item/sellerId
+30: 2025-11-23 22:40:48,994 test_get_stats:
+24: 2025-11-23 22:40:49,018 GET /api/1/statistic/661597a0-eb5f-4c2e-846b-c18215d5d9af
+30: 2025-11-23 22:40:49,425 test_get_stats_not_exist_id:
+24: 2025-11-23 22:40:49,425 GET /api/1/statistic/661597a0-eb5f-4c2e-846b-c18215d111af
+30: 2025-11-23 22:40:49,529 test_get_stats_invalid_id:
+24: 2025-11-23 22:40:49,530 GET /api/1/statistic/23321
+30: 2025-11-23 22:40:49,641 test_post_item_empty_body:
+24: 2025-11-23 22:40:49,666 POST /api/1/item
+30: 2025-11-23 22:40:50,366 test_post_item_with_full_body:
+24: 2025-11-23 22:40:50,368 POST /api/1/item
+24: 2025-11-23 22:40:50,448 DELETE /api/2/item/58a2bf9a-f1a5-456d-b4a9-fe871b96b287
+30: 2025-11-23 22:40:50,530 test_post_item_send_invalid_json:
+24: 2025-11-23 22:40:50,531 POST /api/1/item
+30: 2025-11-23 22:40:50,613 test_post_item_with_invalid_price:
+24: 2025-11-23 22:40:50,614 POST /api/1/item
+24: 2025-11-23 22:40:50,690 DELETE /api/2/item/da11f78e-2a03-4eac-8ff8-8279555fb3dd
+30: 2025-11-23 22:40:50,775 test_post_item_with_max_price:
+24: 2025-11-23 22:40:50,777 POST /api/1/item
