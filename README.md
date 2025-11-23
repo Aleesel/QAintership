@@ -3,7 +3,7 @@
 
 # Отчет по багам карьерного сайта Авито
 Скриншот с выделением и нумерацией багов.
-![bugs_number](https://github.com/Aleesel/QAintership/blob/9663184b755d2994f7d0b86e1eeb09e575b38194/Bugs_numbering.png)
+![bugs_number](https://github.com/Aleesel/QAintership/blob/176c35bc98a121c2e0628391252ace1957e941b2/bugs_numbering.png)
 Нумерация на скриншоте соответсвует порядковому номеру, описываемых багов.
 ## Описание багов:
 
