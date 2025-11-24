@@ -12,7 +12,7 @@
     {
       "name": "Тестовый товар с отрицательной ценой",
       "price": -100,
-      "sellerId": 12345,
+      "sellerId": 123456,
       "statistics": {
                      "likes": 23,
                      "viewCount": 58,
